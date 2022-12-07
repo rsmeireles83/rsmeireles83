@@ -1,7 +1,7 @@
 ### Hi there, I'm Renato Meireles
 
-- 🔭 I’m currently working on CMS Joomla and WordPress
-- 🌱 I’m currently learning Front End
+- 🔭 I’m currently working on CMS Joomla and WordPress.
+- 🌱 Learning Front End languages.
 - 📫 How to reach me: rsmeireles83@gmail.com
 
 <div align="center">
